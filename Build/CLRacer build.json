@@ -1,0 +1,14 @@
+{
+"companyName": "CuteLiu Studios",
+"productName": "CLRacer.io",
+"dataUrl": "CLRacer build.data.unityweb",
+"asmCodeUrl": "CLRacer build.asm.code.unityweb",
+"asmMemoryUrl": "CLRacer build.asm.memory.unityweb",
+"asmFrameworkUrl": "CLRacer build.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
